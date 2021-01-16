@@ -4,4 +4,7 @@ def fun():
     b =5
     s = a+ b
     return s
+	
+def fun_1():
+    pass
 
